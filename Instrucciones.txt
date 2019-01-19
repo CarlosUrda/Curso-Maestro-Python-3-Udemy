@@ -1,0 +1,19 @@
+=================================================================================================
+INTRUCCIONES PARA ACCEDER A LOS APUNTES Y EJERCICIOS
+=================================================================================================
+Descomprime esta carpeta en el directorio raíz de tu usuario y ábrela con Jupyter Notebook.
+
+=================================================================================================
+CURSO MAESTRO DE DJANGO 2: DESARROLLO WEB BACKEND CON PYTHON (12 horas) 
+=================================================================================================
+
+Si también te interesa el desarrollo web backend y quieres aprender el framework Django de Python,
+he creado otro curso donde explico cómo aprender creando paso a paso tres geniales proyectos:
+
+https://www.udemy.com/curso-django-2-practico-desarrollo-web-python-3/?couponCode=DJANGO2
+
+=================================================================================================
+ENLACES DE INTERÉS
+=================================================================================================
+Más información y cursos: https://www.hektorprofe.net/
+Mi canal de Youtube con muchísimo contenido: https://www.youtube.com/user/Servorius
